@@ -1,4 +1,4 @@
-https://travis-ci.com/WeIgniteTech/simple-node-app.svg?branch=master 
+[![Build Status](https://travis-ci.com/WeIgniteTech/simple-node-app.svg?branch=master)](https://travis-ci.com/WeIgniteTech/simple-node-app)
 
 # Simple node web-application
 
