@@ -1,3 +1,5 @@
+https://travis-ci.com/WeIgniteTech/simple-node-app.svg?branch=master 
+
 # Simple node web-application
 
 ## Description
