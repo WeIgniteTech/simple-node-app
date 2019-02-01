@@ -1,0 +1,1 @@
+Legg til en ny fil som bør slettes etterhvert, bare for å lag en ny commit så Travis kan starte bygg + test
