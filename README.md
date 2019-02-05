@@ -19,4 +19,6 @@ You don't need to follow the steps described below. But if you are curious, this
 >(--save option indicates that you save it to your package.json også)
 
 
+## Integrations
+Can mention that the app is integrated with Travis
 
