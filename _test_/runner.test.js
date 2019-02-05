@@ -9,7 +9,7 @@ const esmImport = require('esm')(module);
 /*
  IMPORTANT: the test files MUST NOT be recognized as test-files by Jest
   that's why they are named with the suffix 'assert' and not 'test'
-  run the teste form the command line with `npm test`
+  run the teste from the command line with `npm test`
 */
 const test_suite_1 = esmImport('./api-utils.assert');
 const test_suite_2 = esmImport('./client-app-utils.assert');
